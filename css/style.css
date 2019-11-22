@@ -4,7 +4,7 @@ body{
     background-color: #00aced;   
     margin: 0px;
     padding: 0px;
-    font-family: verdana;
+    font-family: arial;
 }
 .main{
     width: 400px;
@@ -17,6 +17,7 @@ body{
     position: absolute;
     margin: -130px 0px 0px -210px;
     text-align: center;
+    padding: 15px 30px;
 }
 h2{
     color:#00aced;
