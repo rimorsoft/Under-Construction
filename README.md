@@ -3,4 +3,4 @@ Under Construction, página temporal que le informará a tus visitantes que tu s
 
 
 ## Trabajando desde México
-- Cristhian Villegas García
+- Cristhian Villegas García, México
